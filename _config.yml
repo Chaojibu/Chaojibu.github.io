@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Xinyan He"
-  avatar           : "profile.png"
+  avatar           : "file:///Users/hexinyan/Downloads/%E4%BD%95%E6%98%95%E5%A6%8D%E7%9A%84%E7%85%A7%E7%89%87%E4%BB%AC/IMG_9061.jpg"
   bio              : "Undergraduate in Nanjing University"
   location         : "Nanjing, China"
   employer         :
   pubmed           : ""
   googlescholar    : ""
-  email            :chaojibu120120@163.com
+  email            :"chaojibu120120@163.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
